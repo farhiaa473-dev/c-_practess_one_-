@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\bin\Debug\net8.0-windows\files_Home_Assignment.exe
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\bin\Debug\net8.0-windows\files_Home_Assignment.deps.json
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\bin\Debug\net8.0-windows\files_Home_Assignment.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\bin\Debug\net8.0-windows\files_Home_Assignment.dll
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\bin\Debug\net8.0-windows\files_Home_Assignment.pdb
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.Form1.resources
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.dll
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\refint\files_Home_Assignment.dll
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.pdb
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\files_Home_Assignment.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\c#_practess_one_#\c#_practess_one_#\files Assignmet\files_Home_Assignment\files_Home_Assignment\obj\Debug\net8.0-windows\ref\files_Home_Assignment.dll
